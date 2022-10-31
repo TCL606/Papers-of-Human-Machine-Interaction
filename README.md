@@ -1,4 +1,4 @@
-# Paper List
+# A Paper List of Human Machine Interaction
 
 👍represents "worth reading"; ✨represents "important"
 
